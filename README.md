@@ -6,12 +6,25 @@
 
 ### Phase 1: Applied GenAI, Agentic Systems & Orchestration 
 
-#### Video Lectures
+#### AI Engineering Core Concepts
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Agents vs Workflows - AI Agents & AI Workflows are not the same | 32 mins | [Watch]() |
 | 2 | Model Context Protocol (MCP) from scratch - Connecting your AI Agents with external server and tools | 23 mins | [Watch]() |
+
+#### Agentic AI - Design Patterns
+
+| S.No. | Topic       | Duration    | |
+| 1 | Prompt Chaining - Agentic Workflow Design Pattern | 23 mins | [Watch]() |
+| 2 | Routing - Agentic Workflow Design Pattern - Agent summarizing social media profile | 28 mins | [Watch]() |
+| 3 | Evaluator Optimizer - Agentic Workflow Design Pattern - Human in the Loop | 26 mins | [Watch]() |
+| 4 | Orchestrator Worker - Agentic Workflow Design Pattern - Powering DeepResearch Agents | 39 mins | [Watch]() |
+
+#### RAG - Retrieval Augmented Generation
+
+| S.No. | Topic       | Duration    | |
+| 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
 
 #### Reading Material & Code-Labs
 
