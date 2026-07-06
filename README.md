@@ -10,8 +10,8 @@
 
 | S.No. | Topic       | Duration    |
 | ---   | ----------- | ----------- |
-| Lecture 1 | Agents vs Workflows - AI Agents & AI Workflows are not the same | 32 mins |
-| Lecture 2 | Model Context Protocol (MCP) from scratch - Connecting your AI Agents with external server and tools | 23 mins |
+| 1 | Agents vs Workflows - AI Agents & AI Workflows are not the same | 32 mins | [Watch]() |
+| 2 | Model Context Protocol (MCP) from scratch - Connecting your AI Agents with external server and tools | 23 mins | [Watch]() |
 
 #### Reading Material & Code-Labs
 
