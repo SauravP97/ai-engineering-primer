@@ -16,6 +16,7 @@
 #### Agentic AI - Design Patterns
 
 | S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
 | 1 | Prompt Chaining - Agentic Workflow Design Pattern | 23 mins | [Watch]() |
 | 2 | Routing - Agentic Workflow Design Pattern - Agent summarizing social media profile | 28 mins | [Watch]() |
 | 3 | Evaluator Optimizer - Agentic Workflow Design Pattern - Human in the Loop | 26 mins | [Watch]() |
@@ -24,6 +25,7 @@
 #### RAG - Retrieval Augmented Generation
 
 | S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
 | 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
 
 #### Reading Material & Code-Labs
