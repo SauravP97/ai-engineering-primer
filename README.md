@@ -1,4 +1,4 @@
-# :penguin: AI Engineering Primer
+# AI Engineering Primer :penguin:
 
 **AI Engineering Primer** is an intensive, project-driven course designed to bridge the gap between theoretical Machine Learning, AI Engineering concepts and production-ready AI engineering workflows and models. 
 
@@ -8,7 +8,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 
 ### :triangular_flag_on_post: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
 
-#### Module 1: AI Engineering Core Concepts
+#### :golf: Module 1: AI Engineering Core Concepts
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -20,7 +20,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 | 6 | Add Memory to your AI Agents - Context Management in LLMs | 28 mins | [Watch]() |
 | 7 | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | 27 mins | [Watch]() |
 
-#### Module 2: Agentic AI - Design Patterns
+#### :golf: Module 2: Agentic AI - Design Patterns
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -29,14 +29,14 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 | 3 | Evaluator Optimizer Design Pattern - Human in the Loop | 26 mins | [Watch]() |
 | 4 | Orchestrator Worker Design Pattern - Powering DeepResearch Agents | 39 mins | [Watch]() |
 
-#### Module 3: RAG - Retrieval Augmented Generation
+#### :golf: Module 3: RAG - Retrieval Augmented Generation
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
 | 2 | Corrective RAG - Integrating Web Search as a fallback knowledge base | 47 mins | [Watch]() |
 
-#### Module 4: Projects | Building Agentic AI Workflows from scratch
+#### :golf: Module 4: Projects | Building Agentic AI Workflows from scratch
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -45,7 +45,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 | 3 | Building a Text to SQL Agent for handling complex database queries in LangChain | 39 mins | [Watch]() |
 | 4 | Agent that recommend Roles at Google, reviews Resume and outlines Preparation strategies | 50 mins | [Watch]() |
 
-#### [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
+#### :golf: [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -62,7 +62,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 | 11 | RAG Framework and LangGraph in action | 4 mins | [Watch]() |
 | 12 | Visualizing the compiled Graph using Mermaid in LangGraph | 3 mins | [Watch]() |
 
-#### Reading Material & Code-Labs
+#### :pencil: Reading Material & Code-Labs
 
 | Topic       | Type        |
 | ----------- | ----------- |
