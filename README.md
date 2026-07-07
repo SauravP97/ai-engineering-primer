@@ -1,12 +1,14 @@
-# AI Engineering Primer
+# :penguin: AI Engineering Primer
 
-**AI Engineering Primer** is an intensive, project-driven course designed to bridge the gap between theoretical Machine Learning, AI Engineering concepts and production-ready AI engineering workflows and models. You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
+**AI Engineering Primer** is an intensive, project-driven course designed to bridge the gap between theoretical Machine Learning, AI Engineering concepts and production-ready AI engineering workflows and models. 
 
-## Course Outline
+You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
 
-### Phase 1: Applied GenAI, Agentic Systems & Orchestration 
+## :blossom: Course Outline
 
-#### AI Engineering Core Concepts
+### :triangular_flag_on_post: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
+
+#### Module 1: AI Engineering Core Concepts
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -14,10 +16,36 @@
 | 2 | Model Context Protocol (MCP) from scratch - Connecting your AI Agents with external server and tools | 23 mins | [Watch]() |
 | 3 | Tool Calling - Make LLMs talk to Database, APIs and Web | 25 mins | [Watch]() |
 | 4 | Human in the Loop (HITL) - Interrupting your Agentic Workflow for user input | 27 mins | [Watch]() |
-| 5 | Human in the Loop (HITL) - Interrupting your Agentic Workflow for user input | 27 mins | [Watch]() |
-| 6 | Vector Embeddings - Introducing Google Gemini Embedding Models | 28 mins | [Watch]() |
+| 5 | Vector Embeddings - Introducing Google Gemini Embedding Models | 28 mins | [Watch]() |
+| 6 | Add Memory to your AI Agents - Context Management in LLMs | 28 mins | [Watch]() |
+| 7 | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | 27 mins | [Watch]() |
 
-#### LangChain & LangGraph - Agentic AI Framework
+#### Module 2: Agentic AI - Design Patterns
+
+| S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
+| 1 | Prompt Chaining Design Pattern | 23 mins | [Watch]() |
+| 2 | Routing Design Pattern - Agent summarizing social media profile | 28 mins | [Watch]() |
+| 3 | Evaluator Optimizer Design Pattern - Human in the Loop | 26 mins | [Watch]() |
+| 4 | Orchestrator Worker Design Pattern - Powering DeepResearch Agents | 39 mins | [Watch]() |
+
+#### Module 3: RAG - Retrieval Augmented Generation
+
+| S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
+| 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
+| 2 | Corrective RAG - Integrating Web Search as a fallback knowledge base | 47 mins | [Watch]() |
+
+#### Module 4: Projects | Building Agentic AI Workflows from scratch
+
+| S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
+| 1 | Building Agentic workflow that creates personalized Linkedin Post | 34 mins | [Watch]() |
+| 2 | Building a Referral Outreach Agentic Workflow in LangChain | 29 mins | [Watch]() |
+| 3 | Building a Text to SQL Agent for handling complex database queries in LangChain | 39 mins | [Watch]() |
+| 4 | Agent that recommend Roles at Google, reviews Resume and outlines Preparation strategies | 50 mins | [Watch]() |
+
+#### [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -33,33 +61,6 @@
 | 10 | Compiling the workflow in LangGraph - Setting-up the Graph | 8 mins | [Watch]() |
 | 11 | RAG Framework and LangGraph in action | 4 mins | [Watch]() |
 | 12 | Visualizing the compiled Graph using Mermaid in LangGraph | 3 mins | [Watch]() |
-| 13 | Add Memory to your AI Agents - Context Management in LLMs | 28 mins | [Watch]() |
-| 14 | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | 27 mins | [Watch]() |
-
-#### Agentic AI - Design Patterns
-
-| S.No. | Topic       | Duration    | |
-| ---   | ----------- | ----------- | --- |
-| 1 | Prompt Chaining Design Pattern | 23 mins | [Watch]() |
-| 2 | Routing Design Pattern - Agent summarizing social media profile | 28 mins | [Watch]() |
-| 3 | Evaluator Optimizer Design Pattern - Human in the Loop | 26 mins | [Watch]() |
-| 4 | Orchestrator Worker Design Pattern - Powering DeepResearch Agents | 39 mins | [Watch]() |
-
-#### RAG - Retrieval Augmented Generation
-
-| S.No. | Topic       | Duration    | |
-| ---   | ----------- | ----------- | --- |
-| 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
-| 2 | Corrective RAG - Integrating Web Search as a fallback knowledge base | 47 mins | [Watch]() |
-
-#### Projects | Building Agentic AI Workflows from scratch
-
-| S.No. | Topic       | Duration    | |
-| ---   | ----------- | ----------- | --- |
-| 1 | Building Agentic workflow that creates personalized Linkedin Post | 34 mins | [Watch]() |
-| 2 | Building a Referral Outreach Agentic Workflow in LangChain | 29 mins | [Watch]() |
-| 3 | Building a Text to SQL Agent for handling complex database queries in LangChain | 39 mins | [Watch]() |
-| 4 | Agent that recommend Roles at Google, reviews Resume and outlines Preparation strategies | 50 mins | [Watch]() |
 
 #### Reading Material & Code-Labs
 
@@ -68,7 +69,7 @@
 | Header      | Title       |
 | Paragraph   | Text        |
 
-### Phase 2: Core Deep Learning for LLMs
+### :triangular_flag_on_post: Phase 2: Core Deep Learning for LLMs
 
 #### Video Lectures
 
@@ -84,7 +85,7 @@
 | Header      | Title       |
 | Paragraph   | Text        |
 
-### Phase 3: Pre-Training & Fine-Tuning LLMs
+### :triangular_flag_on_post: Phase 3: Pre-Training & Fine-Tuning LLMs
 
 #### Video Lectures
 
