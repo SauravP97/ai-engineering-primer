@@ -7,19 +7,27 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 ## :blossom: Course Outline
 
 * **[Phase 1: Applied GenAI, Agentic Systems & Orchestration](#-phase-1-applied-genai-agentic-systems--orchestration)**
+
   * [Module 1: AI Engineering Core Concepts](#-module-1-ai-engineering-core-concepts)
+
   * [Module 2: Agentic AI - Design Patterns](#-module-2-agentic-ai---design-patterns)
+
   * [Module 3: RAG - Retrieval Augmented Generation](#-module-3-rag---retrieval-augmented-generation)
+
   * [Module 4: Projects | Building Agentic AI Workflows from scratch](#-module-4-projects--building-agentic-ai-workflows-from-scratch)
+
   * [[Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework](#-bonus-module-building-multi-agent-workflow-in-langchain--langgraph---agentic-ai-framework)
 
 
 * **[Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts](#-phase-2-pre-training-fine-tuning-llms-and-related-concepts)**
+
   * [Module 1: LLMs Concepts & Optimization techniques](#-module-1-llms-concepts--optimization-techniques)
+
   * [Module 2: Fine-tuning Language Models](#-module-2-fine-tuning-language-models)
 
 
 * **[Phase 3: Core Deep Learning for LLMs](#-phase-3-core-deep-learning-for-llms)**
+
   * [Module 1: Deep Neural Networks - Building a Language Model](#-module-1-deep-neural-networks---building-a-language-model)
 
 ### :triangular_flag_on_post: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
