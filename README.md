@@ -5,7 +5,7 @@
 You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
 
 - :alarm_clock: Watch Time: 19h32m
-- :arrow_forward: 43 Video Lectures
+- :arrow_forward: 44 Video Lectures
 
 ## :blossom: Course Outline
 
