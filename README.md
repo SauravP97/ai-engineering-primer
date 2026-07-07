@@ -28,6 +28,7 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | 5 | Vector Embeddings - Introducing Google Gemini Embedding Models | 28 mins | [Watch]() |
 | 6 | Add Memory to your AI Agents - Context Management in LLMs | 28 mins | [Watch]() |
 | 7 | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | 27 mins | [Watch]() |
+| 8 | Building a Deep Research Agent - Static Workflow, Dissecting my Static-DRA Research Paper | 39 mins | [Watch]() |
 
 #### :golf: Module 2: Agentic AI - Design Patterns
 
