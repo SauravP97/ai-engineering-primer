@@ -4,6 +4,9 @@
 
 You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
 
+- :alarm_clock: Watch Time: 17h48m
+- :arrow_forward: 40 Video Lectures
+
 ## :blossom: Course Outline
 
 * **[Phase 1: Applied GenAI, Agentic Systems & Orchestration](#triangular_flag_on_post-phase-1-applied-genai-agentic-systems--orchestration)**
@@ -49,6 +52,8 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 
 This module establishes the foundation for robust AI workflows. It covers key differences between agents and workflows, Tool Calling, Model Context Protocol (MCP), Context Management, Vector Embeddings, Human-in-the-Loop (HITL) interventions, and debugging with LangChain.
 
+:alarm_clock: Watch Time: 3h49m
+
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Agents vs Workflows - AI Agents & AI Workflows are not the same | 32 mins | [Watch]() |
@@ -64,6 +69,8 @@ This module establishes the foundation for robust AI workflows. It covers key di
 
 The module explores essential architectural patterns for complex AI workflows. It covers Prompt Chaining, Routing strategies for task delegation, the Evaluator-Optimizer pattern featuring Human-in-the-Loop (HITL), and the Orchestrator-Worker pattern used to power advanced, autonomous DeepResearch agents.
 
+:alarm_clock: Watch Time: 1h56m
+
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Prompt Chaining Design Pattern | 23 mins | [Watch]() |
@@ -75,6 +82,8 @@ The module explores essential architectural patterns for complex AI workflows. I
 
 The module focuses on enhancing AI workflows with external knowledge. It covers Self-RAG, which enables agents to critique outputs through self-reflection, and Corrective RAG, which integrates web search as a fallback knowledge base to improve accuracy.
 
+:alarm_clock: Watch Time: 1h26m
+
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
@@ -83,6 +92,8 @@ The module focuses on enhancing AI workflows with external knowledge. It covers 
 #### :golf: Module 4: Projects | Building Agentic AI Workflows from scratch
 
 The module focuses on practical, hands-on application. It guides you through building real-world agentic workflows using LangChain, including a personalized LinkedIn post creator, a referral outreach assistant, a Text-to-SQL database agent, and a Google career recommendation and resume review agent.
+
+:alarm_clock: Watch Time: 2h32m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -94,6 +105,8 @@ The module focuses on practical, hands-on application. It guides you through bui
 #### :golf: [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
 
 The module introduces LangChain and LangGraph to build advanced agentic frameworks. It covers defining nodes and edges, managing shared state, setting up vector stores, building document graders, implementing conditional logic, evaluating RAG performance, and visualizing the compiled graph using Mermaid.
+
+:alarm_clock: Watch Time: 1h6m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -132,6 +145,8 @@ In this module you will learn about Pre-training, Fine-tuning and related LLM co
 
 The module explores advanced LLM optimization strategies. It dives into understanding and implementing Low-Rank Adaptation (LoRA) from scratch using Llama 3, introduces Google FunctionGemma for tool calling, and covers evaluating model performance on the HumanEval coding benchmark.
 
+:alarm_clock: Watch Time: 1h49m
+
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Understanding LoRA from scratch - Dissecting Low-Rank Adaptation of LLMs Research Paper | 27 mins | [Watch]() |
@@ -142,6 +157,8 @@ The module explores advanced LLM optimization strategies. It dives into understa
 #### :golf: Module 2: Fine-tuning Language Models
 
 The module provides hands-on experience in adapting foundational models. It covers fine-tuning models like GPT-2 and Llama 3.2 for classification and summarization tasks, reproducing TinyStories for storytelling, and building Google's FunctionGemma tool-calling model from scratch.
+
+:alarm_clock: Watch Time: 3h5m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -170,6 +187,8 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 - :closed_book: 2 Code Examples
 
 #### :golf: Module 1: Deep Neural Networks - Building a Language Model
+
+:alarm_clock: Watch Time: 2h44m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
