@@ -17,6 +17,8 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 
 #### :golf: Module 1: AI Engineering Core Concepts
 
+This module establishes the foundation for robust AI workflows. It covers key differences between agents and workflows, Tool Calling, Model Context Protocol (MCP), Context Management, Vector Embeddings, Human-in-the-Loop (HITL) interventions, and debugging with LangChain.
+
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Agents vs Workflows - AI Agents & AI Workflows are not the same | 32 mins | [Watch]() |
@@ -29,6 +31,8 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 
 #### :golf: Module 2: Agentic AI - Design Patterns
 
+The module explores essential architectural patterns for complex AI workflows. It covers Prompt Chaining, Routing strategies for task delegation, the Evaluator-Optimizer pattern featuring Human-in-the-Loop (HITL), and the Orchestrator-Worker pattern used to power advanced, autonomous DeepResearch agents.
+
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Prompt Chaining Design Pattern | 23 mins | [Watch]() |
@@ -38,12 +42,16 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 
 #### :golf: Module 3: RAG - Retrieval Augmented Generation
 
+The module focuses on enhancing AI workflows with external knowledge. It covers Self-RAG, which enables agents to critique outputs through self-reflection, and Corrective RAG, which integrates web search as a fallback knowledge base to improve accuracy.
+
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
 | 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
 | 2 | Corrective RAG - Integrating Web Search as a fallback knowledge base | 47 mins | [Watch]() |
 
 #### :golf: Module 4: Projects | Building Agentic AI Workflows from scratch
+
+The module focuses on practical, hands-on application. It guides you through building real-world agentic workflows using LangChain, including a personalized LinkedIn post creator, a referral outreach assistant, a Text-to-SQL database agent, and a Google career recommendation and resume review agent.
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -53,6 +61,8 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 | 4 | Agent that recommend Roles at Google, reviews Resume and outlines Preparation strategies | 50 mins | [Watch]() |
 
 #### :golf: [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
+
+The module introduces LangChain and LangGraph to build advanced agentic frameworks. It covers defining nodes and edges, managing shared state, setting up vector stores, building document graders, implementing conditional logic, evaluating RAG performance, and visualizing the compiled graph using Mermaid.
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -83,11 +93,13 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 In this module you will learn about Pre-training, Fine-tuning and related LLM concepts. Pre-training builds a foundational LLM by teaching it language and reasoning across massive datasets. Fine-tuning adapts this base model for specific tasks using curated data. Advanced techniques like parameter-efficient tuning (LoRA) align the model to be safe, accurate, and specialized.
 
 - :chart_with_upwards_trend: Difficulty: Intermediate
-- :alarm_clock: Watch Time: TBA
+- :alarm_clock: Watch Time: 4h54m
 - :arrow_forward: 9 Video Lectures
 - :closed_book: 2 Code Examples
 
 #### :golf: Module 1: LLMs Concepts & Optimization techniques
+
+The module explores advanced LLM optimization strategies. It dives into understanding and implementing Low-Rank Adaptation (LoRA) from scratch using Llama 3, introduces Google FunctionGemma for tool calling, and covers evaluating model performance on the HumanEval coding benchmark.
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -97,6 +109,8 @@ In this module you will learn about Pre-training, Fine-tuning and related LLM co
 | 4 | Evaluating LLM on HumanEval coding benchmark - Google Gemini 3.1 Pro | 31 mins | [Watch]() |
 
 #### :golf: Module 2: Fine-tuning Language Models
+
+The module provides hands-on experience in adapting foundational models. It covers fine-tuning models like GPT-2 and Llama 3.2 for classification and summarization tasks, reproducing TinyStories for storytelling, and building Google's FunctionGemma tool-calling model from scratch.
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -124,7 +138,7 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 - :arrow_forward: 2 Video Lectures
 - :closed_book: 2 Code Examples
 
-#### Video Lectures
+#### :golf: Module 1: Deep Neural Networks - Building a Language Model
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
