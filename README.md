@@ -1,4 +1,4 @@
-# AI Engineering Primer :penguin:
+# :penguin: AI Engineering Primer
 
 **AI Engineering Primer** is an intensive, project-driven course designed to bridge the gap between theoretical Machine Learning, AI Engineering concepts and production-ready AI engineering workflows and models. 
 
@@ -69,6 +69,8 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 | Header      | Title       |
 | Paragraph   | Text        |
 
+---
+
 ### :triangular_flag_on_post: Phase 2: Core Deep Learning for LLMs
 
 #### Video Lectures
@@ -84,6 +86,8 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+---
 
 ### :triangular_flag_on_post: Phase 3: Pre-Training & Fine-Tuning LLMs
 
