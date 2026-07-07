@@ -39,6 +39,8 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 
   * [Reading Material & Code-Labs](#reading-material--code-labs-1)
 
+---
+
 ### :triangular_flag_on_post: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
 
 Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy to use tools and act. By building structured Workflows for reliability and using Orchestration to manage multi-agent collaboration, you will be able to transform passive models into dynamic software that automates complex, end-to-end business operations at scale.
