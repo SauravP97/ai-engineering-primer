@@ -78,14 +78,33 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 
 ---
 
-### :triangular_flag_on_post: Phase 2: Core Deep Learning for LLMs
+### :triangular_flag_on_post: Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts
 
-#### Video Lectures
+In this module you will learn about Pre-training, Fine-tuning and related LLM concepts. Pre-training builds a foundational LLM by teaching it language and reasoning across massive datasets. Fine-tuning adapts this base model for specific tasks using curated data. Advanced techniques like parameter-efficient tuning (LoRA) align the model to be safe, accurate, and specialized.
 
-| Topic       | Duration    |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+- :chart_with_upwards_trend: Difficulty: Intermediate
+- :alarm_clock: Watch Time: TBA
+- :arrow_forward: 9 Video Lectures
+- :closed_book: 2 Code Examples
+
+#### :golf: Module 1: LLMs Concepts & Optimization techniques
+
+| S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
+| 1 | Understanding LoRA from scratch - Dissecting Low-Rank Adaptation of LLMs Research Paper | 27 mins | [Watch]() |
+| 2 | Implement LoRA in LLMs from scratch - Modifying Llama 3 architecture | 26 mins | [Watch]() |
+| 3 | Introduction to Google FunctionGemma 270M model, LLM for Tool Calling | 25 mins | [Watch]() |
+| 4 | Evaluating LLM on HumanEval coding benchmark - Google Gemini 3.1 Pro | 31 mins | [Watch]() |
+
+#### :golf: Module 2: Fine-tuning Language Models
+
+| S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
+| 1 | TinyStories 4M - Reproduce LLM for Storytelling - HuggingFace  | 38 mins | [Watch]() |
+| 2 | Fine-tune GPT-2, 125M model for text classification - Pytorch  | 35 mins | [Watch]() |
+| 3 | Fine-Tune LLM on Text Summarization task from scratch - Pytorch  | 39 mins | [Watch]() |
+| 4 | Fine-Tuning Llama 3.2 - 1B model with LoRA from scratch on Text summarization  | 39 mins | [Watch]() |
+| 5 | Reproducing Google FunctionGemma 270M model, LLM for Tool Calling  | 34 mins | [Watch]() |
 
 #### Reading Material & Code-Labs
 
@@ -96,14 +115,21 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 
 ---
 
-### :triangular_flag_on_post: Phase 3: Pre-Training & Fine-Tuning LLMs
+### :triangular_flag_on_post: Phase 3: Core Deep Learning for LLMs
+
+Core deep learning for LLMs relies on the Transformer architecture. These neural networks use self-attention mechanisms to process tokens simultaneously. In this module you will learn how to build a language model from scratch.  
+
+- :chart_with_upwards_trend: Difficulty: Intermediate
+- :alarm_clock: Watch Time: 2h44m
+- :arrow_forward: 2 Video Lectures
+- :closed_book: 2 Code Examples
 
 #### Video Lectures
 
-| Topic       | Duration    |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| S.No. | Topic       | Duration    | |
+| ---   | ----------- | ----------- | --- |
+| 1 | Building a Character level Language Model from scratch - Deep Neural Network | 1h21m | [Watch]() |
+| 2 | Building a Language Model for Auto-completion and Suggestions - Deep Neural Network | 1h23m | [Watch]() |
 
 #### Reading Material & Code-Labs
 
