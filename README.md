@@ -4,8 +4,8 @@
 
 You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
 
-- :alarm_clock: Watch Time: 17h48m
-- :arrow_forward: 40 Video Lectures
+- :alarm_clock: Watch Time: 19h32m
+- :arrow_forward: 43 Video Lectures
 
 ## :blossom: Course Outline
 
@@ -54,7 +54,7 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 
 This module establishes the foundation for robust AI workflows. It covers key differences between agents and workflows, Tool Calling, Model Context Protocol (MCP), Context Management, Vector Embeddings, Human-in-the-Loop (HITL) interventions, and debugging with LangChain.
 
-:alarm_clock: Watch Time: 3h49m
+:alarm_clock: Watch Time: 5h33m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -62,10 +62,13 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | 2 | Model Context Protocol (MCP) from scratch - Connecting your AI Agents with external server and tools | 23 mins | [Watch]() |
 | 3 | Tool Calling - Make LLMs talk to Database, APIs and Web | 25 mins | [Watch]() |
 | 4 | Human in the Loop (HITL) - Interrupting your Agentic Workflow for user input | 27 mins | [Watch]() |
-| 5 | Vector Embeddings - Introducing Google Gemini Embedding Models | 28 mins | [Watch]() |
-| 6 | Add Memory to your AI Agents - Context Management in LLMs | 28 mins | [Watch]() |
-| 7 | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | 27 mins | [Watch]() |
-| 8 | Building a Deep Research Agent - Static Workflow, Dissecting my Static-DRA Research Paper | 39 mins | [Watch]() |
+| 5 | Optimize your Agentic workflow with Parallel Execution in LangGraph, LangChain | 32 mins | [Watch]() |
+| 6 | Vector Embeddings - Introducing Google Gemini Embedding Models | 28 mins | [Watch]() |
+| 7 | Add Memory to your AI Agents - Context Management in LLMs | 28 mins | [Watch]() |
+| 8 | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | 27 mins | [Watch]() |
+| 9 | Building a Deep Research Agent - Static Workflow, Dissecting my Static-DRA Research Paper | 39 mins | [Watch]() |
+| 10 | Google Self-Evolution algorithm for Deep Researcher - Agentic Workflow & Parallel Processing | 45 mins | [Watch]() |
+| 11 | Agent Builder by OpenAI - Introduction to building Agentic Workflows, No-Code | 27 mins | [Watch]() |
 
 #### :golf: Module 2: Agentic AI - Design Patterns
 
