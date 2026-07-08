@@ -115,7 +115,7 @@ The module focuses on practical, hands-on application. It guides you through bui
 The module introduces LangChain and LangGraph to build advanced agentic frameworks. It covers defining nodes and edges, managing shared state, setting up vector stores, building document graders, implementing conditional logic, evaluating RAG performance, and visualizing the compiled graph using Mermaid.
 
 - :headphones: Watch Video Lectures: <a href="https://youtube.com/playlist?list=PL3tZ_eA1QJsyJxXnpg69McGc9xdsy3j_Z" target="_blank">Youtube</a>
-:alarm_clock: Watch Time: 1h6m
+- :alarm_clock: Watch Time: 1h6m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
