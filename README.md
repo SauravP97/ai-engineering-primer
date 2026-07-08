@@ -1,5 +1,11 @@
 # :penguin: AI Engineering Primer
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F9AB00?style=flat&logo=huggingface&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+
 **AI Engineering Primer** is an intensive, project-driven course designed to bridge the gap between theoretical Machine Learning, AI Engineering concepts and production-ready AI engineering workflows and models. 
 
 You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
