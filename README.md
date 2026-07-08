@@ -202,3 +202,29 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 ### Reading Material & Code-Labs
 
 To Be Added...
+
+## 🌟 Show your support
+Building and maintaining this open-source curriculum takes time and effort. If you find this repository useful for your AI engineering journey:
+*   Star ⭐ this repository to help others find it.
+*   Share it with your network or on social media.
+*   Subscribe to the full video series on [YouTube](https://www.youtube.com/@saurav_prateek_).
+
+## 🤝 How to Contribute
+We welcome community contributions! Whether it's fixing a typo, adding a new code-lab, or updating documentation, feel free to open a Pull Request or start a discussion in the [Issues](https://github.com/SauravP97/ai-engineering-primer/issues) tab.
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
+## 🛠️ Prerequisites
+Before diving into the modules, we recommend having:
+*   Basic understanding of Python programming.
+*   Familiarity with fundamental Machine Learning concepts.
+*   An IDE installed (e.g., VS Code) and basic Git knowledge.
+*   API keys for the respective models used in the code-labs (e.g., OpenAI, Google Gemini).
+
+## 📫 Connect with the Author
+Created by [SauravP97](https://github.com/SauravP97). Feel free to reach out if you have any questions regarding the curriculum!
+
+  - Linkedin: https://www.linkedin.com/in/saurav-prateek-7b2096140/
+  - Github: http://github.com/SauravP97
+  - Portfolio: https://sauravp97.github.io/
