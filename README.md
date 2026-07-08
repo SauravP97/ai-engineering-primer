@@ -8,6 +8,8 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 - :arrow_forward: 45 Video Lectures
 - :headphones: Watch Video Lectures: <a href="https://www.youtube.com/playlist?list=PLIYs6sQc6OTo" target="_blank">Youtube</a>
 
+![Course Outline](./media/banner1.png)
+
 ## :blossom: Course Outline
 
 * **[Phase 1: Applied GenAI, Agentic Systems & Orchestration](#diamond_shape_with_a_dot_inside-phase-1-applied-genai-agentic-systems--orchestration)**
