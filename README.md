@@ -10,7 +10,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 
 ## :blossom: Course Outline
 
-* **[Phase 1: Applied GenAI, Agentic Systems & Orchestration](#triangular_flag_on_post-phase-1-applied-genai-agentic-systems--orchestration)**
+* **[Phase 1: Applied GenAI, Agentic Systems & Orchestration](#diamond_shape_with_a_dot_inside-phase-1-applied-genai-agentic-systems--orchestration)**
 
   * [Module 1: AI Engineering Core Concepts](#golf-module-1-ai-engineering-core-concepts)
 
@@ -25,7 +25,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
   * [Reading Material & Code-Labs](#pencil-reading-material--code-labs)
 
 
-* **[Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts](#triangular_flag_on_post-phase-2-pre-training-fine-tuning-llms-and-related-concepts)**
+* **[Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts](#diamond_shape_with_a_dot_inside-phase-2-pre-training-fine-tuning-llms-and-related-concepts)**
 
   * [Module 1: LLMs Concepts & Optimization techniques](#golf-module-1-llms-concepts--optimization-techniques)
 
@@ -34,7 +34,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
   * [Reading Material & Code-Labs](#reading-material--code-labs)
 
 
-* **[Phase 3: Core Deep Learning for LLMs](#triangular_flag_on_post-phase-3-core-deep-learning-for-llms)**
+* **[Phase 3: Core Deep Learning for LLMs](#diamond_shape_with_a_dot_inside-phase-3-core-deep-learning-for-llms)**
 
   * [Module 1: Deep Neural Networks - Building a Language Model](#golf-module-1-deep-neural-networks---building-a-language-model)
 
