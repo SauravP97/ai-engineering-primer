@@ -6,6 +6,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 
 - :alarm_clock: Watch Time: 19h57m
 - :arrow_forward: 45 Video Lectures
+- :headphones: Watch Video Lectures: [Youtube](https://www.youtube.com/playlist?list=PLIYs6sQc6OTo)
 
 ## :blossom: Course Outline
 
@@ -41,7 +42,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 
 ---
 
-### :triangular_flag_on_post: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
+## :triangular_flag_on_post: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
 
 Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy to use tools and act. By building structured Workflows for reliability and using Orchestration to manage multi-agent collaboration, you will be able to transform passive models into dynamic software that automates complex, end-to-end business operations at scale.
 
@@ -50,7 +51,7 @@ Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy t
 - :arrow_forward: 29 Video Lectures
 - :closed_book: 3 Code Examples
 
-#### :golf: Module 1: AI Engineering Core Concepts
+### :golf: Module 1: AI Engineering Core Concepts
 
 This module establishes the foundation for robust AI workflows. It covers key differences between agents and workflows, Tool Calling, Model Context Protocol (MCP), Context Management, Vector Embeddings, Human-in-the-Loop (HITL) interventions, and debugging with LangChain.
 
@@ -70,7 +71,7 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | 10 | Google Self-Evolution algorithm for Deep Researcher - Agentic Workflow & Parallel Processing | 45 mins | [Watch]() |
 | 11 | Agent Builder by OpenAI - Introduction to building Agentic Workflows, No-Code | 27 mins | [Watch]() |
 
-#### :golf: Module 2: Agentic AI - Design Patterns
+### :golf: Module 2: Agentic AI - Design Patterns
 
 The module explores essential architectural patterns for complex AI workflows. It covers Prompt Chaining, Routing strategies for task delegation, the Evaluator-Optimizer pattern featuring Human-in-the-Loop (HITL), and the Orchestrator-Worker pattern used to power advanced, autonomous DeepResearch agents.
 
@@ -83,7 +84,7 @@ The module explores essential architectural patterns for complex AI workflows. I
 | 3 | Evaluator Optimizer Design Pattern - Human in the Loop | 26 mins | [Watch]() |
 | 4 | Orchestrator Worker Design Pattern - Powering DeepResearch Agents | 39 mins | [Watch]() |
 
-#### :golf: Module 3: RAG - Retrieval Augmented Generation
+### :golf: Module 3: RAG - Retrieval Augmented Generation
 
 The module focuses on enhancing AI workflows with external knowledge. It covers Self-RAG, which enables agents to critique outputs through self-reflection, and Corrective RAG, which integrates web search as a fallback knowledge base to improve accuracy.
 
@@ -94,7 +95,7 @@ The module focuses on enhancing AI workflows with external knowledge. It covers 
 | 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch]() |
 | 2 | Corrective RAG - Integrating Web Search as a fallback knowledge base | 47 mins | [Watch]() |
 
-#### :golf: Module 4: Projects | Building Agentic AI Workflows from scratch
+### :golf: Module 4: Projects | Building Agentic AI Workflows from scratch
 
 The module focuses on practical, hands-on application. It guides you through building real-world agentic workflows using LangChain, including a personalized LinkedIn post creator, a referral outreach assistant, a Text-to-SQL database agent, and a Google career recommendation and resume review agent.
 
@@ -107,7 +108,7 @@ The module focuses on practical, hands-on application. It guides you through bui
 | 3 | Building a Text to SQL Agent for handling complex database queries in LangChain | 39 mins | [Watch]() |
 | 4 | Agent that recommend Roles at Google, reviews Resume and outlines Preparation strategies | 50 mins | [Watch]() |
 
-#### :golf: [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
+### :golf: [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
 
 The module introduces LangChain and LangGraph to build advanced agentic frameworks. It covers defining nodes and edges, managing shared state, setting up vector stores, building document graders, implementing conditional logic, evaluating RAG performance, and visualizing the compiled graph using Mermaid.
 
@@ -128,7 +129,7 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 | 11 | RAG Framework and LangGraph in action | 4 mins | [Watch]() |
 | 12 | Visualizing the compiled Graph using Mermaid in LangGraph | 3 mins | [Watch]() |
 
-#### :pencil: Reading Material & Code-Labs
+### :pencil: Reading Material & Code-Labs
 
 | Topic       | Type        |
 | ----------- | ----------- |
@@ -137,7 +138,7 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 
 ---
 
-### :triangular_flag_on_post: Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts
+## :triangular_flag_on_post: Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts
 
 In this module you will learn about Pre-training, Fine-tuning and related LLM concepts. Pre-training builds a foundational LLM by teaching it language and reasoning across massive datasets. Fine-tuning adapts this base model for specific tasks using curated data. Advanced techniques like parameter-efficient tuning (LoRA) align the model to be safe, accurate, and specialized.
 
@@ -146,7 +147,7 @@ In this module you will learn about Pre-training, Fine-tuning and related LLM co
 - :arrow_forward: 10 Video Lectures
 - :closed_book: 2 Code Examples
 
-#### :golf: Module 1: LLMs Concepts & Optimization techniques
+### :golf: Module 1: LLMs Concepts & Optimization techniques
 
 The module explores advanced LLM optimization strategies. It dives into understanding and implementing Low-Rank Adaptation (LoRA) from scratch using Llama 3, introduces Google FunctionGemma for tool calling, and covers evaluating model performance on the HumanEval coding benchmark.
 
@@ -160,7 +161,7 @@ The module explores advanced LLM optimization strategies. It dives into understa
 | 4 | Evaluating LLM on HumanEval coding benchmark - Google Gemini 3.1 Pro | 31 mins | [Watch]() |
 | 5 | Tokenization - Visualizing Byte-Pair algorithm | 25 mins | [Watch]() |
 
-#### :golf: Module 2: Fine-tuning Language Models
+### :golf: Module 2: Fine-tuning Language Models
 
 The module provides hands-on experience in adapting foundational models. It covers fine-tuning models like GPT-2 and Llama 3.2 for classification and summarization tasks, reproducing TinyStories for storytelling, and building Google's FunctionGemma tool-calling model from scratch.
 
@@ -174,7 +175,7 @@ The module provides hands-on experience in adapting foundational models. It cove
 | 4 | Fine-Tuning Llama 3.2 - 1B model with LoRA from scratch on Text summarization  | 39 mins | [Watch]() |
 | 5 | Reproducing Google FunctionGemma 270M model, LLM for Tool Calling  | 34 mins | [Watch]() |
 
-#### Reading Material & Code-Labs
+### Reading Material & Code-Labs
 
 | Topic       | Type        |
 | ----------- | ----------- |
@@ -183,7 +184,7 @@ The module provides hands-on experience in adapting foundational models. It cove
 
 ---
 
-### :triangular_flag_on_post: Phase 3: Core Deep Learning for LLMs
+## :triangular_flag_on_post: Phase 3: Core Deep Learning for LLMs
 
 Core deep learning for LLMs relies on the Transformer architecture. These neural networks use self-attention mechanisms to process tokens simultaneously. In this module you will learn how to build a language model from scratch.  
 
@@ -192,7 +193,7 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 - :arrow_forward: 2 Video Lectures
 - :closed_book: 2 Code Examples
 
-#### :golf: Module 1: Deep Neural Networks - Building a Language Model
+### :golf: Module 1: Deep Neural Networks - Building a Language Model
 
 :alarm_clock: Watch Time: 2h44m
 
@@ -201,7 +202,7 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 | 1 | Building a Character level Language Model from scratch - Deep Neural Network | 1h21m | [Watch]() |
 | 2 | Building a Language Model for Auto-completion and Suggestions - Deep Neural Network | 1h23m | [Watch]() |
 
-#### Reading Material & Code-Labs
+### Reading Material & Code-Labs
 
 | Topic       | Type        |
 | ----------- | ----------- |
