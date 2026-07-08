@@ -138,7 +138,7 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 
 ---
 
-## :triangular_flag_on_post: Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts
+## :diamond_shape_with_a_dot_inside: Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts
 
 In this module you will learn about Pre-training, Fine-tuning and related LLM concepts. Pre-training builds a foundational LLM by teaching it language and reasoning across massive datasets. Fine-tuning adapts this base model for specific tasks using curated data. Advanced techniques like parameter-efficient tuning (LoRA) align the model to be safe, accurate, and specialized.
 
@@ -184,7 +184,7 @@ The module provides hands-on experience in adapting foundational models. It cove
 
 ---
 
-## :triangular_flag_on_post: Phase 3: Core Deep Learning for LLMs
+## :diamond_shape_with_a_dot_inside: Phase 3: Core Deep Learning for LLMs
 
 Core deep learning for LLMs relies on the Transformer architecture. These neural networks use self-attention mechanisms to process tokens simultaneously. In this module you will learn how to build a language model from scratch.  
 
