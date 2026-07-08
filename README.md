@@ -6,7 +6,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 
 - :alarm_clock: Watch Time: 19h57m
 - :arrow_forward: 45 Video Lectures
-- :headphones: Watch Video Lectures: [Youtube](https://www.youtube.com/playlist?list=PLIYs6sQc6OTo)
+- :headphones: Watch Video Lectures: <a href="https://www.youtube.com/playlist?list=PLIYs6sQc6OTo" target="_blank">Youtube</a>
 
 ## :blossom: Course Outline
 
@@ -42,7 +42,7 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 
 ---
 
-## :triangular_flag_on_post: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
+## :diamond_shape_with_a_dot_inside: Phase 1: Applied GenAI, Agentic Systems & Orchestration 
 
 Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy to use tools and act. By building structured Workflows for reliability and using Orchestration to manage multi-agent collaboration, you will be able to transform passive models into dynamic software that automates complex, end-to-end business operations at scale.
 
