@@ -223,7 +223,7 @@ Before diving into the modules, we recommend having:
 *   API keys for the respective models used in the code-labs (e.g., OpenAI, Google Gemini).
 
 ## 📫 Connect with the Author
-Created by [SauravP97](https://github.com/SauravP97). Feel free to reach out if you have any questions regarding the curriculum!
+Created by [Saurav Prateek](https://github.com/SauravP97). Feel free to reach out if you have any questions regarding the curriculum!
 
   - Linkedin: https://www.linkedin.com/in/saurav-prateek-7b2096140/
   - Github: http://github.com/SauravP97
