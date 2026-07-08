@@ -134,10 +134,7 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 
 ### :pencil: Reading Material & Code-Labs
 
-| Topic       | Type        |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+To Be Added...
 
 ---
 
@@ -180,10 +177,7 @@ The module provides hands-on experience in adapting foundational models. It cove
 
 ### Reading Material & Code-Labs
 
-| Topic       | Type        |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+To Be Added...
 
 ---
 
@@ -207,7 +201,4 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 
 ### Reading Material & Code-Labs
 
-| Topic       | Type        |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+To Be Added...
