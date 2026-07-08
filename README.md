@@ -4,8 +4,8 @@
 
 You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
 
-- :alarm_clock: Watch Time: 19h32m
-- :arrow_forward: 44 Video Lectures
+- :alarm_clock: Watch Time: 19h57m
+- :arrow_forward: 45 Video Lectures
 
 ## :blossom: Course Outline
 
@@ -142,15 +142,15 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 In this module you will learn about Pre-training, Fine-tuning and related LLM concepts. Pre-training builds a foundational LLM by teaching it language and reasoning across massive datasets. Fine-tuning adapts this base model for specific tasks using curated data. Advanced techniques like parameter-efficient tuning (LoRA) align the model to be safe, accurate, and specialized.
 
 - :chart_with_upwards_trend: Difficulty: Intermediate
-- :alarm_clock: Watch Time: 4h54m
-- :arrow_forward: 9 Video Lectures
+- :alarm_clock: Watch Time: 5h19m
+- :arrow_forward: 10 Video Lectures
 - :closed_book: 2 Code Examples
 
 #### :golf: Module 1: LLMs Concepts & Optimization techniques
 
 The module explores advanced LLM optimization strategies. It dives into understanding and implementing Low-Rank Adaptation (LoRA) from scratch using Llama 3, introduces Google FunctionGemma for tool calling, and covers evaluating model performance on the HumanEval coding benchmark.
 
-:alarm_clock: Watch Time: 1h49m
+:alarm_clock: Watch Time: 2h14m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -158,6 +158,7 @@ The module explores advanced LLM optimization strategies. It dives into understa
 | 2 | Implement LoRA in LLMs from scratch - Modifying Llama 3 architecture | 26 mins | [Watch]() |
 | 3 | Introduction to Google FunctionGemma 270M model, LLM for Tool Calling | 25 mins | [Watch]() |
 | 4 | Evaluating LLM on HumanEval coding benchmark - Google Gemini 3.1 Pro | 31 mins | [Watch]() |
+| 5 | Tokenization - Visualizing Byte-Pair algorithm | 25 mins | [Watch]() |
 
 #### :golf: Module 2: Fine-tuning Language Models
 
