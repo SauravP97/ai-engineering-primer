@@ -84,6 +84,14 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | S.No. | Topic       | Link    |
 | ---   | ----------- | ----------- |
 | 1     | MCP (Model Context Protocol) from scratch | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/mcp) |
+| 2     | Tool Calling - Make LLMs talk to Database, APIs and Web | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/tool-calls) |
+| 3     | Human in the Loop (HITL) - Interrupting your Agentic Workflow for user input | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/human-in-loop) |
+| 4     | Optimize your Agentic workflow with Parallel Execution in LangGraph | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/parallel-execution) |
+| 5     | Vector Embeddings - Introducing Google Gemini Embedding Models | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/vector-embeddings) |
+| 6     | Add Memory to your AI Agents - Context Management in LLMs | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/memory-agent) |
+| 7     | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/debugging-workflow) |
+| 8     | Building a Deep Research Agent - Static Workflow | [Code](https://github.com/SauravP97/Static-Deep-Research) |
+| 9     | Google Self-Evolution algorithm for Deep Researcher | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/self-evolution-google) |
 
 ### :golf: Module 2: Agentic AI - Design Patterns
 
