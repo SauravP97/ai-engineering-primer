@@ -87,11 +87,11 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | 2     | Tool Calling - Make LLMs talk to Database, APIs and Web | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/tool-calls) |
 | 3     | Human in the Loop (HITL) - Interrupting your Agentic Workflow for user input | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/human-in-loop) |
 | 4     | Optimize your Agentic workflow with Parallel Execution in LangGraph | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/parallel-execution) |
-| 5     | Vector Embeddings - Introducing Google Gemini Embedding Models | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/vector-embeddings) |
+| 5     | Vector Embeddings - Introducing Google Gemini Embedding Models | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/vector-embeddings), [Paper](https://arxiv.org/pdf/2503.07891) |
 | 6     | Add Memory to your AI Agents - Context Management in LLMs | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/memory-agent) |
 | 7     | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/debugging-workflow) |
-| 8     | Building a Deep Research Agent - Static Workflow | [Code](https://github.com/SauravP97/Static-Deep-Research) |
-| 9     | Google Self-Evolution algorithm for Deep Researcher | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/self-evolution-google) |
+| 8     | Building a Deep Research Agent - Static Workflow | [Code](https://github.com/SauravP97/Static-Deep-Research), [Paper](https://arxiv.org/abs/2512.03887) |
+| 9     | Google Self-Evolution algorithm for Deep Researcher | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/self-evolution-google), [Paper](https://arxiv.org/pdf/2507.16075) |
 
 ### :golf: Module 2: Agentic AI - Design Patterns
 
@@ -105,6 +105,15 @@ The module explores essential architectural patterns for complex AI workflows. I
 | 2 | Routing Design Pattern - Agent summarizing social media profile | 28 mins | [Watch](https://youtu.be/BVbpTtYFVLE) |
 | 3 | Evaluator Optimizer Design Pattern - Human in the Loop | 26 mins | [Watch](https://youtu.be/SknYgMpC-VI) |
 | 4 | Orchestrator Worker Design Pattern - Powering DeepResearch Agents | 39 mins | [Watch](https://youtu.be/ObVNv49S9K4) |
+
+#### :pencil: Reading Material & Code-Labs
+
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | Prompt Chaining Design Pattern | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/prompt-chaining-design-pattern) |
+| 2     | Routing Design Pattern | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/routing-design-pattern) |
+| 3     | Evaluator Optimizer Design Pattern | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/evaluator-optimizer-agent), [Agentic RAG Paper](https://arxiv.org/pdf/2501.09136) |
+| 4     | Orchestrator Worker Design Pattern | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/orchestrator-worker-design-pattern) |
 
 ### :golf: Module 3: RAG - Retrieval Augmented Generation
 
