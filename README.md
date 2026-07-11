@@ -210,6 +210,16 @@ The module explores advanced LLM optimization strategies. It dives into understa
 | 4 | Evaluating LLM on HumanEval coding benchmark - Google Gemini 3.1 Pro | 31 mins | [Watch](https://youtu.be/fmTUXQwTFi8) |
 | 5 | Tokenization - Visualizing Byte-Pair algorithm | 25 mins | [Watch](https://youtu.be/HA1Wqd3VlNE) |
 
+#### :pencil: Reading Material & Code-Labs
+
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | Understanding LoRA from scratch | [Paper](https://arxiv.org/pdf/2106.09685) |
+| 2     | Introduction to Google FunctionGemma 270M model | [Model Card HuggingFace](https://huggingface.co/google/functiongemma-270m-it), [Model Overview](https://ai.google.dev/gemma/docs/functiongemma) |
+| 3     | Evaluating LLM on HumanEval coding benchmark | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/human_eval_bench), [HumanEval Paper](https://arxiv.org/pdf/2107.03374), [HumanEval Dataset](https://huggingface.co/datasets/openai/openai_humaneval) |
+| 4     | Tokenization - Visualizing Byte-Pair algorithm | [Code](https://github.com/SauravP97/hf-tokenizer-visualizer/), [BPE Tokenization Algorithm](https://huggingface.co/learn/llm-course/en/chapter6/5), [Python Package](https://pypi.org/project/hf-tokenizer-visualizer/) |
+
+
 ### :golf: Module 2: Fine-tuning Language Models
 
 The module provides hands-on experience in adapting foundational models. It covers fine-tuning models like GPT-2 and Llama 3.2 for classification and summarization tasks, reproducing TinyStories for storytelling, and building Google's FunctionGemma tool-calling model from scratch.
@@ -224,10 +234,15 @@ The module provides hands-on experience in adapting foundational models. It cove
 | 4 | Fine-Tuning Llama 3.2 - 1B model with LoRA from scratch on Text summarization  | 39 mins | [Watch](https://youtu.be/wUkBuKbS_2U) |
 | 5 | Reproducing Google FunctionGemma 270M model, LLM for Tool Calling  | 34 mins | [Watch](https://youtu.be/RoQYu_6bBOg) |
 
-### Reading Material & Code-Labs
+#### :pencil: Reading Material & Code-Labs
 
-To Be Added...
-
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | TinyStories 4M - Reproduce LLM for Storytelling | [Code](https://github.com/SauravP97/tiny-stories-hf), [Paper](https://arxiv.org/abs/2305.07759), [Model Card HuggingFace](https://huggingface.co/SauravP97/tiny-stories-3M) |
+| 2     | Fine-tune GPT-2, 125M model for text classification | [Code](https://github.com/SauravP97/llm-finetune/blob/main/fine-tune-gpt2-spam-classifier.ipynb) |
+| 3     | Fine-Tune LLM on Text Summarization task from scratch | [Model](https://huggingface.co/SauravP97/tiny-stories-19M-instruct), [Code](https://github.com/SauravP97/llm-finetune/blob/main/fine-tune-tiny-stories.ipynb) |
+| 4     | Fine-Tuning Llama 3.2 - 1B model with LoRA from scratch on Text summarization | [Code](https://github.com/SauravP97/llm-finetune/blob/main/fine_tune_llama_1b_summarization.ipynb), [Model](https://huggingface.co/meta-llama/Llama-3.2-1B) |
+| 5     | Reproducing Google FunctionGemma 270M model | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/function_gemma) |
 ---
 
 ## :diamond_shape_with_a_dot_inside: Phase 3: Core Deep Learning for LLMs
