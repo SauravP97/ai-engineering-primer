@@ -177,6 +177,12 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 | 11 | RAG Framework and LangGraph in action | 4 mins | [Watch](https://youtu.be/WQbmPTrHsS8) |
 | 12 | Visualizing the compiled Graph using Mermaid in LangGraph | 3 mins | [Watch](https://youtu.be/Xn7pPopFK1s) |
 
+#### :pencil: Reading Material & Code-Labs
+
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | Adaptive RAG in LangGraph & LangChain | [Code](https://github.com/SauravP97/langraph-adaptive-rag/tree/master) |
+
 ---
 
 ## :diamond_shape_with_a_dot_inside: Phase 2: Pre-Training, Fine-Tuning LLMs and related Concepts
