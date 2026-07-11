@@ -79,6 +79,12 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | 10 | Google Self-Evolution algorithm for Deep Researcher - Agentic Workflow & Parallel Processing | 45 mins | [Watch](https://youtu.be/sI-kEu6G_Tg) |
 | 11 | Agent Builder by OpenAI - Introduction to building Agentic Workflows, No-Code | 27 mins | [Watch](https://youtu.be/_2WllOxJp9o) |
 
+#### :pencil: Reading Material & Code-Labs
+
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | MCP (Model Context Protocol) from scratch | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/mcp) |
+
 ### :golf: Module 2: Agentic AI - Design Patterns
 
 The module explores essential architectural patterns for complex AI workflows. It covers Prompt Chaining, Routing strategies for task delegation, the Evaluator-Optimizer pattern featuring Human-in-the-Loop (HITL), and the Orchestrator-Worker pattern used to power advanced, autonomous DeepResearch agents.
@@ -137,10 +143,6 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 | 10 | Compiling the workflow in LangGraph - Setting-up the Graph | 8 mins | [Watch](https://youtu.be/8ctyRErJ03Q) |
 | 11 | RAG Framework and LangGraph in action | 4 mins | [Watch](https://youtu.be/WQbmPTrHsS8) |
 | 12 | Visualizing the compiled Graph using Mermaid in LangGraph | 3 mins | [Watch](https://youtu.be/Xn7pPopFK1s) |
-
-### :pencil: Reading Material & Code-Labs
-
-To Be Added...
 
 ---
 
