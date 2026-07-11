@@ -126,6 +126,13 @@ The module focuses on enhancing AI workflows with external knowledge. It covers 
 | 1 | Self RAG - Making your Agentic workflows critique through Self-Reflection | 39 mins | [Watch](https://youtu.be/H9zMp5wzQjc) |
 | 2 | Corrective RAG - Integrating Web Search as a fallback knowledge base | 47 mins | [Watch](https://youtu.be/vAJqCDaU9Oc) |
 
+#### :pencil: Reading Material & Code-Labs
+
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | Self RAG - Making your Agentic workflows critique through Self-Reflection | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/self-rag) [Paper](https://arxiv.org/pdf/2310.11511) |
+| 2     | Corrective RAG - Integrating Web Search as a fallback knowledge base | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/corrective-rag) [Paper](https://arxiv.org/pdf/2401.15884) |
+
 ### :golf: Module 4: Projects | Building Agentic AI Workflows from scratch
 
 The module focuses on practical, hands-on application. It guides you through building real-world agentic workflows using LangChain, including a personalized LinkedIn post creator, a referral outreach assistant, a Text-to-SQL database agent, and a Google career recommendation and resume review agent.
@@ -138,6 +145,15 @@ The module focuses on practical, hands-on application. It guides you through bui
 | 2 | Building a Referral Outreach Agentic Workflow in LangChain | 29 mins | [Watch](https://youtu.be/FjUNgQw4HZ8) |
 | 3 | Building a Text to SQL Agent for handling complex database queries in LangChain | 39 mins | [Watch](https://youtu.be/YXDA4kfW_Dg) |
 | 4 | Agent that recommend Roles at Google, reviews Resume and outlines Preparation strategies | 50 mins | [Watch](https://youtu.be/AuOkG3iQFog) |
+
+#### :pencil: Reading Material & Code-Labs
+
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | Building Agentic workflow that creates personalized Linkedin Post | [Code](https://github.com/SauravP97/LangPost) |
+| 2     | Building a Referral Outreach Agentic Workflow in LangChain | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/outreach-agent) |
+| 3     | Building a Text to SQL Agent for handling complex database queries in LangChain | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/text-to-sql) |
+| 4     | Agent that recommend Roles at Google, reviews Resume and outlines Preparation strategies | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/google-job-search-agent) |
 
 ### :golf: [Bonus Module] Building Multi-agent workflow in LangChain & LangGraph - Agentic AI Framework
 
