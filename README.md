@@ -7,7 +7,8 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 
 ![banner](./media/banner.png)
-![](./media/playlist-video.mov)
+
+https://github.com/user-attachments/assets/0139b44a-8de7-4850-97fd-6d5a32babe43
 
 **AI Engineering Primer** is an intensive, project-driven course designed to bridge the gap between theoretical Machine Learning, AI Engineering concepts and production-ready AI engineering workflows and models. 
 
