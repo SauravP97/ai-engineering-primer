@@ -265,7 +265,9 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 
 ### Reading Material & Code-Labs
 
-To Be Added...
+| S.No. | Topic       | Link    |
+| ---   | ----------- | ----------- |
+| 1     | Makemore (inspired by Andrej) - A character level language model | [Code](http://github.com/SauravP97/makemore-mlp-ep2), [Karpathy's Repo](https://github.com/karpathy/makemore) |
 
 ## 🌟 Show your support
 Building and maintaining this open-source curriculum takes time and effort. If you find this repository useful for your AI engineering journey:
