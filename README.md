@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/0139b44a-8de7-4850-97fd-6d5a32babe43
 
 You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
 
-- :alarm_clock: Watch Time: 19h57m
+- :alarm_clock: Watch Time: 20h18m
 - :arrow_forward: 45 Video Lectures
 - :headphones: Watch Video Lectures: <a href="https://www.youtube.com/playlist?list=PLIYs6sQc6OTo" target="_blank">Youtube</a>
 
@@ -57,15 +57,15 @@ You will start with the absolute fundamentals of ML and AI Engineering, and prog
 Applied GenAI provides the reasoning, but Agentic Systems give AI the autonomy to use tools and act. By building structured Workflows for reliability and using Orchestration to manage multi-agent collaboration, you will be able to transform passive models into dynamic software that automates complex, end-to-end business operations at scale.
 
 - :chart_with_upwards_trend: Difficulty: Beginner
-- :alarm_clock: Watch Time: 10h10m
-- :arrow_forward: 29 Video Lectures
-- :closed_book: 3 Code Examples
+- :alarm_clock: Watch Time: 10h31m
+- :arrow_forward: 30 Video Lectures
+- :closed_book: 20 Code Examples
 
 ### :golf: Module 1: AI Engineering Core Concepts
 
 This module establishes the foundation for robust AI workflows. It covers key differences between agents and workflows, Tool Calling, Model Context Protocol (MCP), Context Management, Vector Embeddings, Human-in-the-Loop (HITL) interventions, and debugging with LangChain.
 
-:alarm_clock: Watch Time: 5h33m
+:alarm_clock: Watch Time: 5h54m
 
 | S.No. | Topic       | Duration    | |
 | ---   | ----------- | ----------- | --- |
@@ -80,6 +80,7 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | 9 | Building a Deep Research Agent - Static Workflow, Dissecting my Static-DRA Research Paper | 39 mins | [Watch](https://youtu.be/n79Ojwk2muw) |
 | 10 | Google Self-Evolution algorithm for Deep Researcher - Agentic Workflow & Parallel Processing | 45 mins | [Watch](https://youtu.be/sI-kEu6G_Tg) |
 | 11 | Agent Builder by OpenAI - Introduction to building Agentic Workflows, No-Code | 27 mins | [Watch](https://youtu.be/_2WllOxJp9o) |
+| 12 | Agent2Agent (A2A) Protocol - Build your first Multi-Agent network | 21 mins | [Watch](https://youtu.be/DUqWKsbqfM4) |
 
 #### :pencil: Reading Material & Code-Labs
 
@@ -94,6 +95,7 @@ This module establishes the foundation for robust AI workflows. It covers key di
 | 7     | Debugging your Agentic Workflows - Threads & Checkpoints in LangChain | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/debugging-workflow) |
 | 8     | Building a Deep Research Agent - Static Workflow | [Code](https://github.com/SauravP97/Static-Deep-Research), [Paper](https://arxiv.org/abs/2512.03887) |
 | 9     | Google Self-Evolution algorithm for Deep Researcher | [Code](https://github.com/SauravP97/AI-Engineering-101/tree/main/self-evolution-google), [Paper](https://arxiv.org/pdf/2507.16075) |
+| 10     | Agent2Agent (A2A) Protocol | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/agent2agent/yt_codelab), [Documentation](https://a2a-protocol.org/latest/topics/what-is-a2a/) |
 
 ### :golf: Module 2: Agentic AI - Design Patterns
 
@@ -194,7 +196,7 @@ In this module you will learn about Pre-training, Fine-tuning and related LLM co
 - :chart_with_upwards_trend: Difficulty: Intermediate
 - :alarm_clock: Watch Time: 5h19m
 - :arrow_forward: 10 Video Lectures
-- :closed_book: 2 Code Examples
+- :closed_book: 9 Code Examples
 
 ### :golf: Module 1: LLMs Concepts & Optimization techniques
 
@@ -252,7 +254,7 @@ Core deep learning for LLMs relies on the Transformer architecture. These neural
 - :chart_with_upwards_trend: Difficulty: Intermediate
 - :alarm_clock: Watch Time: 2h44m
 - :arrow_forward: 2 Video Lectures
-- :closed_book: 2 Code Examples
+- :closed_book: 1 Code Examples
 
 ### :golf: Module 1: Deep Neural Networks - Building a Language Model
 
