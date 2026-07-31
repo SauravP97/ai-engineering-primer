@@ -221,7 +221,7 @@ The module explores advanced LLM optimization strategies. It dives into understa
 | 2     | Introduction to Google FunctionGemma 270M model | [Model Card HuggingFace](https://huggingface.co/google/functiongemma-270m-it), [Model Overview](https://ai.google.dev/gemma/docs/functiongemma) |
 | 3     | Evaluating LLM on HumanEval coding benchmark | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/human_eval_bench), [HumanEval Paper](https://arxiv.org/pdf/2107.03374), [HumanEval Dataset](https://huggingface.co/datasets/openai/openai_humaneval) |
 | 4     | Tokenization - Visualizing Byte-Pair algorithm | [Code](https://github.com/SauravP97/hf-tokenizer-visualizer/), [BPE Tokenization Algorithm](https://huggingface.co/learn/llm-course/en/chapter6/5), [Python Package](https://pypi.org/project/hf-tokenizer-visualizer/) |
-| 5     | Mixture of Experts (MoE) | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/mixture_of_experts) [Paper](https://arxiv.org/pdf/2401.04088) |
+| 5     | Mixture of Experts (MoE) | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/mixture_of_experts), [Paper](https://arxiv.org/pdf/2401.04088) |
 
 
 ### :golf: Module 2: Fine-tuning Language Models
