@@ -12,8 +12,8 @@ https://github.com/user-attachments/assets/0139b44a-8de7-4850-97fd-6d5a32babe43
 
 You will start with the absolute fundamentals of ML and AI Engineering, and progress through to building agentic workflows, implementing agentic design patterns, fine-tuning custom Large Language Models (LLMs), optimizing Language Modelling techniques and much more.
 
-- :alarm_clock: Watch Time: 20h18m
-- :arrow_forward: 45 Video Lectures
+- :alarm_clock: Watch Time: 20h49m
+- :arrow_forward: 46 Video Lectures
 - :headphones: Watch Video Lectures: <a href="https://www.youtube.com/playlist?list=PLIYs6sQc6OTo" target="_blank">Youtube</a>
 
 ![Course Outline](./media/banner1.png)
@@ -194,9 +194,9 @@ The module introduces LangChain and LangGraph to build advanced agentic framewor
 In this module you will learn about Pre-training, Fine-tuning and related LLM concepts. Pre-training builds a foundational LLM by teaching it language and reasoning across massive datasets. Fine-tuning adapts this base model for specific tasks using curated data. Advanced techniques like parameter-efficient tuning (LoRA) align the model to be safe, accurate, and specialized.
 
 - :chart_with_upwards_trend: Difficulty: Intermediate
-- :alarm_clock: Watch Time: 5h19m
-- :arrow_forward: 10 Video Lectures
-- :closed_book: 9 Code Examples
+- :alarm_clock: Watch Time: 5h50m
+- :arrow_forward: 11 Video Lectures
+- :closed_book: 10 Code Examples
 
 ### :golf: Module 1: LLMs Concepts & Optimization techniques
 
@@ -211,6 +211,7 @@ The module explores advanced LLM optimization strategies. It dives into understa
 | 3 | Introduction to Google FunctionGemma 270M model, LLM for Tool Calling | 25 mins | [Watch](https://youtu.be/tZ8n49ufVcI) |
 | 4 | Evaluating LLM on HumanEval coding benchmark - Google Gemini 3.1 Pro | 31 mins | [Watch](https://youtu.be/fmTUXQwTFi8) |
 | 5 | Tokenization - Visualizing Byte-Pair algorithm | 25 mins | [Watch](https://youtu.be/HA1Wqd3VlNE) |
+| 6 | Mixture of Experts (MoE) - Implement from scratch | 31 mins | [Watch](https://youtu.be/5E-RdE6elMo) |
 
 #### :pencil: Reading Material & Code-Labs
 
@@ -220,6 +221,7 @@ The module explores advanced LLM optimization strategies. It dives into understa
 | 2     | Introduction to Google FunctionGemma 270M model | [Model Card HuggingFace](https://huggingface.co/google/functiongemma-270m-it), [Model Overview](https://ai.google.dev/gemma/docs/functiongemma) |
 | 3     | Evaluating LLM on HumanEval coding benchmark | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/human_eval_bench), [HumanEval Paper](https://arxiv.org/pdf/2107.03374), [HumanEval Dataset](https://huggingface.co/datasets/openai/openai_humaneval) |
 | 4     | Tokenization - Visualizing Byte-Pair algorithm | [Code](https://github.com/SauravP97/hf-tokenizer-visualizer/), [BPE Tokenization Algorithm](https://huggingface.co/learn/llm-course/en/chapter6/5), [Python Package](https://pypi.org/project/hf-tokenizer-visualizer/) |
+| 5     | Mixture of Experts (MoE) | [Code](https://github.com/SauravP97/llms-from-scratch/tree/main/mixture_of_experts) [Paper](https://arxiv.org/pdf/2401.04088) |
 
 
 ### :golf: Module 2: Fine-tuning Language Models
